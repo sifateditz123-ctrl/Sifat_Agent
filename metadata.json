@@ -1,0 +1,6 @@
+{
+  "name": "Sifat Agent",
+  "description": "Bilingual (Bangla + English) voice-controlled Android AI personal assistant with safe allow-listed automation, AccessibilityService screen understanding, and a secure Gemini backend.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

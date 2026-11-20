@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sifat Agent</string>
+    <string name="accessibility_service_label">Sifat Agent Assistant Control</string>
+    <string name="accessibility_service_description">Allows Sifat Agent to read visible screen text, navigate Back or Home, scroll, and tap accessible controls strictly when you request it. Password fields and protected banking screens are never read or stored.</string>
+    <string name="wake_word_channel_name">Sifat Agent Voice Listener</string>
+    <string name="wake_word_notification_title">Sifat Agent Wake-Word Active</string>
+    <string name="wake_word_notification_body">Listening locally for "Hey Sifat". Tap to open or stop.</string>
+</resources>

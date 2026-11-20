@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">সিফাত এজেন্ট</string>
+    <string name="accessibility_service_label">সিফাত এজেন্ট অ্যাসিস্ট্যান্ট কন্ট্রোল</string>
+    <string name="accessibility_service_description">আপনি অনুরোধ করলেই কেবল সিফাত এজেন্ট স্ক্রিনের দৃশ্যমান লেখা পড়তে, হোম বা ব্যাক নেভিগেট করতে, স্ক্রল করতে এবং বাটনে ট্যাপ করতে পারবে। পাসওয়ার্ড বা সুরক্ষিত ব্যাংকিং স্ক্রিন কখনোই পড়া বা সংরক্ষণ করা হয় না।</string>
+    <string name="wake_word_channel_name">সিফাত এজেন্ট ভয়েস লিসেনার</string>
+    <string name="wake_word_notification_title">সিফাত এজেন্ট ওয়েক-ওয়ার্ড চালু আছে</string>
+    <string name="wake_word_notification_body">"হেই সিফাত" শোনার জন্য সক্রিয় আছে। বন্ধ করতে ট্যাপ করুন।</string>
+</resources>
